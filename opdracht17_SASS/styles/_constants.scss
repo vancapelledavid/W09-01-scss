@@ -1,0 +1,14 @@
+@mixin text-base {
+  max-width: 700px;
+  text-align: center;
+  padding: $padding-standard
+}
+
+$base-color: #090b08;
+$background-body:  #ecffe9;
+$background-light:  #c0eea9;
+$background-medium:#97d279;
+$background-dark: #000;
+$hover: #fff;
+$border: $background-dark;
+$padding-standard: 20px;
